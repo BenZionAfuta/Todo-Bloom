@@ -9,7 +9,7 @@ https://neon-task-flash.lovable.app/
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
+ 
 **Use Lovable**
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/443d15e7-af4f-4013-a85d-94c962604e8d) and start prompting.
